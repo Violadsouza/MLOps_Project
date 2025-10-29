@@ -1,0 +1,5 @@
+outs:
+- md5: ea1c740f6ac5f8679b470b73b44dd337
+  size: 49
+  hash: md5
+  path: predict_function.pkl
